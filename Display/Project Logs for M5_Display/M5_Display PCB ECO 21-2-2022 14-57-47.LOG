@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3_SW Pin=J1-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=J27-1
+Removed Member From Class: ClassName=U_M5_Display_COMM Member=J1
+Removed Member From Class: ClassName=U_M5_Display_GLCD Member=J27
+Added Pin To Net: NetName=NetJ2_1 Pin=J1-1
+Added Pin To Net: NetName=3V3_SW Pin=J27-1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ1_1
+Added Member To Class: ClassName=U_M5_Display_GLCD Member=Component J1 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J27 PIN CABLE

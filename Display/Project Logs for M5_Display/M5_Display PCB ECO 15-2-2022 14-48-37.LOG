@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J26 Old Footprint=SIP5_90_MM New Footprint=SIP5_MM
+Change Component Comment : Designator=J26 Old Comment=R/A 5POS 2MM New Comment=2111-1X5G00SB
+Change component parameters: Designator = "J26" ("J26"); Footprint = "SIP5_90_MM"; UniqueID = "\NJAAVEHV\OUKBZTJI" ("\NJAAVEHV\OUKBZTJI")
+Change component parameters (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "M22-2510505"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "HEADER_5POS_2MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publico"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1314-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2111-1X5G00SB"; VariantName = "[No Variations]"

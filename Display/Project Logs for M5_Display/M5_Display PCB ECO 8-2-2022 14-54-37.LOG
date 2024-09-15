@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=D2-1
+Removed Pin From Net: NetName=NetC2_1 Pin=D2-2
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=D?
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Added Pin To Net: NetName=3V3 Pin=D2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2

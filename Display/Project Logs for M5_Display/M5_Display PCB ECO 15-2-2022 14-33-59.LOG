@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=BAT1 Old Footprint=CR1220H New Footprint=CR1025SM
+Change Component Comment : Designator=BAT1 Old Comment=CR1220 New Comment=CR1025SM
+Change component parameters: Designator = "BAT1" ("BAT1"); Footprint = "CR1220H"; UniqueID = "\NJAAVEHV\ROTWRMNQ" ("\NJAAVEHV\ROTWRMNQ")
+Change component parameters (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Renata Batteries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CR1025SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BAT_CR1025SM_HORIZONTAL_SOLDABLE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publico"; Value = "JP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2984-CR1025SM-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "CR1025SM"; VariantName = "[No Variations]"

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=avbb NewDesignator=R24
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C19 1uF 6V3
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C40 100nF
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component Q9 FDN337N
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R55 100K 1%

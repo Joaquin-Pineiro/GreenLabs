@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=C22
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=C23
+Change Component Footprint: Designator=Y1 Old Footprint=FSXLF New Footprint=ECS-1210
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "FSXLF"; UniqueID = "\NJAAVEHV\ELQNAVIV" ("\NJAAVEHV\ELQNAVIV")
+Change component parameters (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREO"; Value = "AP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECS-.327-12.5-1210-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "XTAL_32768_XC2282CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "XC2282CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU3_8 Pin=U3-8
+Added Pin To Net: NetName=NetU3_8 Pin=Y1-2
+Added Net: Name=NetU3_8
+Added Pin To Net: NetName=NetU3_9 Pin=U3-9
+Added Pin To Net: NetName=NetU3_9 Pin=Y1-1
+Added Net: Name=NetU3_9

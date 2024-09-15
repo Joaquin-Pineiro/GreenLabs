@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Member From Class: ClassName=U_M5_Display_GPIO Member=J12
+Added Pin To Net: NetName=GND Pin=J12-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=Q4-2
+Added Net: Name=NetJ5_1
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J5 PIN CABLE

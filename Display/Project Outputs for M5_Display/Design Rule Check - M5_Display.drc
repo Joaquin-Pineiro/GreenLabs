@@ -1,0 +1,71 @@
+Protel Design System Design Rule Check
+PCB File : D:\GreenLabs\Display\M5_Display.PcbDoc
+Date     : 24/2/2022
+Time     : 13:46:02
+
+Processing Rule : Clearance Constraint (Gap=25mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNet('3V3') OR InNet('3V3_ESP')OR InNet('3V3_PERI') OR InNet('VDDA') OR InNet('VIN') OR InNet('VIN_EXT') OR InNet('VIN_PROT')),(InNet('3V3') OR InNet('3V3_ESP')OR InNet('3V3_PERI') OR InNet('VCC_CAN') OR InNet('VDDA') OR InNet('VIN') OR InNet('VIN_EXT') OR InNet('VIN_PROT'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 209.381 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 209.381 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 210.743 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND. Dead copper detected. Copper area is : 210.743 sq. mils
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=20mil) (InNet('3V3') OR InNet('3V3_ESP')OR InNet('3V3_PERI') OR InNet('VDDA') OR InNet('VIN') OR InNet('VIN_EXT') OR InNet('VIN_PROT'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=130mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (HasFootprint('LQFP64')),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (1.142mil < 5mil) Between Text "+" (1102.362mil,716.535mil) on Top Overlay And Track (1054.758mil,673.506mil)(1077.118mil,673.506mil) on Top Overlay Silk Text to Silk Clearance [1.142mil]
+   Violation between Silk To Silk Clearance Constraint: (1.142mil < 5mil) Between Text "+" (1102.362mil,716.535mil) on Top Overlay And Track (1077.118mil,651.146mil)(1077.118mil,673.506mil) on Top Overlay Silk Text to Silk Clearance [1.142mil]
+   Violation between Silk To Silk Clearance Constraint: (2.76mil < 5mil) Between Text "+" (1102.362mil,716.535mil) on Top Overlay And Track (1078.504mil,723.402mil)(1078.504mil,851.402mil) on Top Overlay Silk Text to Silk Clearance [2.76mil]
+   Violation between Silk To Silk Clearance Constraint: (2.788mil < 5mil) Between Text "+" (1102.362mil,716.535mil) on Top Overlay And Track (1110.15mil,470.61mil)(1110.15mil,951.61mil) on Top Overlay Silk Text to Silk Clearance [2.788mil]
+   Violation between Silk To Silk Clearance Constraint: (2.76mil < 5mil) Between Text "+" (1102.362mil,716.535mil) on Top Overlay And Track (858.504mil,723.402mil)(1078.504mil,723.402mil) on Top Overlay Silk Text to Silk Clearance [2.76mil]
+Rule Violations :5
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Waived Violation between Clearance Constraint: (5.905mil < 6mil) Between Area Fill (1049.649mil,645.976mil) (1077.996mil,674.323mil) on Keep-Out Layer And Region (0 hole(s)) Top Layer Waived by Joaquín Piñeiro at 24/2/2022 13:34:27Clearence establecido por el fabricante del footprint
+   Waived Violation between Clearance Constraint: (5.905mil < 6mil) Between Area Fill (1049.649mil,645.976mil) (1077.996mil,674.323mil) on Keep-Out Layer And Region (0 hole(s)) Top Layer Waived by Joaquín Piñeiro at 24/2/2022 13:34:36Clearence establecido por el fabricante del footprint
+Waived Violations :2
+
+
+Violations Detected : 9
+Waived Violations : 2
+Time Elapsed        : 00:00:01

@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=J9-3
+Removed Pin From Net: NetName=I2C_SCL Pin=R34-1
+Removed Pin From Net: NetName=I2C_SCL Pin=U3-29
+Removed Pin From Net: NetName=I2C_SCL Pin=U4-5
+Removed Pin From Net: NetName=I2C_SCL Pin=U5-5
+Removed Pin From Net: NetName=I2C_SCL Pin=U6-5
+Removed Member From Class: ClassName=U_M5_Display_GLCD Member=C17
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=C34
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=C35
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=C36
+Removed Member From Class: ClassName=U_M5_Display_COMM Member=DZ6
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=J6
+Removed Member From Class: ClassName=U_M5_Display_COMM Member=R30
+Removed Member From Class: ClassName=U_M5_Display_MCU Member=R57
+Added Pin To Net: NetName=I2C_SDA Pin=J9-3
+Added Pin To Net: NetName=I2C_SDA Pin=R34-1
+Added Pin To Net: NetName=I2C_SDA Pin=U3-29
+Added Pin To Net: NetName=I2C_SDA Pin=U4-5
+Added Pin To Net: NetName=I2C_SDA Pin=U5-5
+Added Pin To Net: NetName=I2C_SDA Pin=U6-5
+Added Net: Name=I2C_SDA
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component C1 100nF
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component C9 DNP
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component C10 3.3nF 25V
+Added Member To Class: ClassName=U_M5_Display_GLCD Member=Component C11 1uF 6V3
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component C15 1uF 6V3
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component C16 100nF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C20 100uF 10V
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C21 1uF 6V3
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C22 12pF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C23 12pF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C24 100nF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C25 100nF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C27 10pF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C29 100nF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C30 100pF 50V
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component C31 100nF
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component C32 100nF
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component C33 100nF
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component D2 MBR0520L
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component DZ1 30V 2W
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component DZ2 3V6 150mW
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component DZ5 5V1 200mW
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component DZ6 5V1 200mW
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component DZ7 3V6 150mW
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J3 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J4 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J5 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J7 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component J8 HEADER_2x3POS
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J10 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J11 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J13 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J16 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J17 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J19 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J20 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J22 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J24 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_GLCD Member=Component Q3 FDN337N
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component Q4 FDN337N
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component Q5 DDC115EU-7-F
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component Q7 FDN360P
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R1 10K
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R2 4K7
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R4 100K
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R5 1K
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R6 10K 1%
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R8 100K
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component R9 14K 1%
+Added Member To Class: ClassName=U_M5_Display_GLCD Member=Component R17 10K 1%
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component R18 5K6 1%
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component R19 470R 1W
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component R23 10K 1%
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component R25 4K7
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R26 10K 1%
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R27 1K
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R29 100K
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R31 10K 1%
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R33 1K5 1%
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R36 1K
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R37 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R38 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R39 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R40 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R41 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R42 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R45 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R46 DNP
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R47 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R48 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R49 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R54 100R
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R55 100K 1%
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component R60 100R
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R61 100R
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component R62 100R

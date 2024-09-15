@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RXD485_EXT Pin=J17-1
+Removed Pin From Net: NetName=RXD_EXT Pin=J19-1
+Added Pin To Net: NetName=RXD_EXT Pin=J17-1
+Added Pin To Net: NetName=RXD485_EXT Pin=J19-1

@@ -1,0 +1,12 @@
+.G1  - Internal Plane 1 (PWRS)
+.GBL - Bottom Layer
+.GBO - Bottom Silk
+.GBP - Bottom Paste
+.GBS - Bottom Mask
+.GM4 - Board
+.GP1 - Internal Plane 2 (GND)
+.GTL - Top Layer
+.GTO - Top Silk
+.GTP - Top Paste
+.GTS - TOP Mask
+.TXT - Drill Guide (NC Drill)

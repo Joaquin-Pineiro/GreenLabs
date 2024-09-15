@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VIN Pin=J1-1
+Removed Pin From Net: NetName=1WP Pin=J3-1
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=J1
+Removed Member From Class: ClassName=U_M5_Display_GPIO Member=J3
+Added Pin To Net: NetName=1WP Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=J3-1
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J1 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component J3 PIN CABLE

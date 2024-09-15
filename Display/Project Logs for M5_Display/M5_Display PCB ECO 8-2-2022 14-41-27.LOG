@@ -1,0 +1,163 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VIN_PROT Pin=C3-2
+Removed Pin From Net: NetName=VIN_PROT Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=3V3 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=3V3 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R7-1
+Removed Pin From Net: NetName=VIN_PROT Pin=R8-1
+Removed Pin From Net: NetName=3V3 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-1
+Removed Pin From Net: NetName=VIN_PROT Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=C7
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=C8
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=C9
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=C10
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=R9
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=R10
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=R11
+Removed Member From Class: ClassName=U_M5_Display_PWR Member=R12
+Change Component Footprint: Designator=C6 Old Footprint=0402 New Footprint=0603
+Change Component Footprint: Designator=C3 Old Footprint=0402 New Footprint=1210
+Change Component Footprint: Designator=C5 Old Footprint=1210 New Footprint=0603
+Change Component Footprint: Designator=L1 Old Footprint=744325550 New Footprint=LPS3015
+Change Component Footprint: Designator=U1 Old Footprint=SO8EP New Footprint=SOT23-6
+Change Component Comment : Designator=R7 Old Comment=0R New Comment=31K6
+Change Component Comment : Designator=L1 Old Comment=5.5uH 10A New Comment=15µH
+Change Component Comment : Designator=C5 Old Comment=10uF 63V New Comment=10uF 10V
+Change Component Comment : Designator=R8 Old Comment=100K New Comment=10K 1%
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=0.1uF 16V
+Change Component Comment : Designator=C6 Old Comment=100nF New Comment=10uF 10V
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=10uF 63V
+Change Component Comment : Designator=U1 Old Comment=AP64350SP-13 New Comment=MCP16331
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0402"; UniqueID = "\BBQHUKED\ADMDGZVK" ("\BBQHUKED\ADMDGZVK")
+Change component parameters (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREO"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R71C104K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP0402_0.1uF_16V_X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3261-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0402"; UniqueID = "\BBQHUKED\KFNMHJTC" ("\BBQHUKED\KFNMHJTC")
+Change component parameters (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREO"; Value = "MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM32ER71J106KA12L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP1210_10uF_63V_X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-9970-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF 63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "1210"; UniqueID = "\BBQHUKED\JEGUKTOZ" ("\BBQHUKED\JEGUKTOZ")
+Change component parameters (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREO"; Value = "JP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188Z71A106KA73D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP0603_10uF_10V_X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-GRM188Z71A106KA73DCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF 10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0402"; UniqueID = "\BBQHUKED\IAQBKLDB" ("\BBQHUKED\IAQBKLDB")
+Change component parameters (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CREO"; Value = "JP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188Z71A106KA73D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP0603_10uF_10V_X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-GRM188Z71A106KA73DCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF 10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "744325550"; UniqueID = "\BBQHUKED\FXHQBLWS" ("\BBQHUKED\FXHQBLWS")
+Change component parameters (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LPS3015-153MRC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IND_PWR_15uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publico"; Value = "JP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2457-LPS3015-153MRC-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15µH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0402"; UniqueID = "\BBQHUKED\ECXREPJO" ("\BBQHUKED\ECXREPJO")
+Change component parameters (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0402FT31K6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES0402_31K6_1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publico"; Value = "JP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0402FT31K6CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "31K6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0402"; UniqueID = "\BBQHUKED\XPUAEZLI" ("\BBQHUKED\XPUAEZLI")
+Change component parameters (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES0402_10K_1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publico"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0402FT10K0TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K 1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SO8EP"; UniqueID = "\BBQHUKED\FYKWPURV" ("\BBQHUKED\FYKWPURV")
+Change component parameters (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP16331T-E/CH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MCP16331_SOT23-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publico"; Value = "JP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP16331T-E/CHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MCP16331"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD323F)
+Add component (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREO"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148_SOD323F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1N4148WSFSTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMB)
+Add component (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREO"; Value = "JP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B1100B-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO_STKY_B1100_SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "B1100B-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B1100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_PROT Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=D2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetC2_2 Pin=D3-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VIN_PROT Pin=U1-5
+Added Pin To Net: NetName=NetC2_2 Pin=U1-6
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-3
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component D2 1N4148WS
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component D3 B1100

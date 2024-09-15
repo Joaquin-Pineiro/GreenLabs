@@ -1,0 +1,11 @@
+Added Component: Designator=D?(SOD523)
+Add component (AddParameter): Name = "APROBO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CREO"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148_SOD523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1N4148WTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N4148WT"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_M5_Display_PWR Member=Component D? 1N4148WT

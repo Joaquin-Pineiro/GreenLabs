@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TXD485_EXT Pin=J16-1
+Change Component Designator: OldDesignator=J17 NewDesignator=J16
+Added Component: Designator=J17(PIN_CABLE)
+Add component (AddParameter): Name = "Aprobo"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PIN_1_CABLE_1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publico"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PIN CABLE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TXD485_EXT Pin=J17-1

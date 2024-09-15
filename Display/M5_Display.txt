@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\GreenLabs\Display\M5_Display.PcbDoc
+Date         : 7/2/2022
+Time         : 11:10:43
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 75.5mmx45mm
+    Components on board, 172
+count : 2

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J18 NewDesignator=J19
+Change Component Designator: OldDesignator=J19 NewDesignator=J18
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J16 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J17 PIN CABLE

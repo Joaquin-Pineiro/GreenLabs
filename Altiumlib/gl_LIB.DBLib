@@ -1,0 +1,331 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Marcelo\Desktop\Micracel\AltiumLib\gl_LIB.mdb;Persist Security Info=False
+AddMode=2
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=gl_LIB.mdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=MISCELANEOS
+[Table1]
+SchemaName=
+TableName=CAPACITORES - SMD
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=CAPACITORES - TH
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=CIRCUITOS INTEGRADOS
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=CIRCUITOS INTEGRADOS - SMD
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=COLVEN
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=CONECTORES Y BORNERAS
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=CRISTALES Y OSCILADORES
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=DAUGHTERS
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=DIODOS - SMD
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=DIODOS - TH
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=INDUCTORES
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=MISCELANEOS
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=Part Number0=Down
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=197|Library Path0=279|Description0=407|Library Ref0=113|Footprint Path0=278|Footprint Ref0=158|Comment0=72|Value0=134|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=115|Supplier Part Number 10=142|Publico0=61|Aprobo0=62|Supplier Unit Price 10=127
+[Table13]
+SchemaName=
+TableName=PROTECCIONES
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=RELES
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=RESISTORES - SMD
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=RESISTORES - TH
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=TRANSISTORES Y FETS
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=CAPACITORES - SMD.Part Number|TableNameOnly=CAPACITORES - SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=CAPACITORES - SMD.Library Path|TableNameOnly=CAPACITORES - SMD|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=CAPACITORES - SMD.Description|TableNameOnly=CAPACITORES - SMD|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=CAPACITORES - SMD.Library Ref|TableNameOnly=CAPACITORES - SMD|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=CAPACITORES - SMD.Footprint Path|TableNameOnly=CAPACITORES - SMD|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=CAPACITORES - SMD.Footprint Ref|TableNameOnly=CAPACITORES - SMD|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=CAPACITORES - TH.Part Number|TableNameOnly=CAPACITORES - TH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=CAPACITORES - TH.Library Path|TableNameOnly=CAPACITORES - TH|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=CAPACITORES - TH.Description|TableNameOnly=CAPACITORES - TH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=CAPACITORES - TH.Library Ref|TableNameOnly=CAPACITORES - TH|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=CAPACITORES - TH.Footprint Path|TableNameOnly=CAPACITORES - TH|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=CAPACITORES - TH.Footprint Ref|TableNameOnly=CAPACITORES - TH|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=CIRCUITOS INTEGRADOS.Part Number|TableNameOnly=CIRCUITOS INTEGRADOS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=CIRCUITOS INTEGRADOS.Library Path|TableNameOnly=CIRCUITOS INTEGRADOS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=CIRCUITOS INTEGRADOS.Description|TableNameOnly=CIRCUITOS INTEGRADOS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=CIRCUITOS INTEGRADOS.Library Ref|TableNameOnly=CIRCUITOS INTEGRADOS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=CIRCUITOS INTEGRADOS.Footprint Path|TableNameOnly=CIRCUITOS INTEGRADOS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=CIRCUITOS INTEGRADOS.Footprint Ref|TableNameOnly=CIRCUITOS INTEGRADOS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=CIRCUITOS INTEGRADOS - SMD.Part Number|TableNameOnly=CIRCUITOS INTEGRADOS - SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=CIRCUITOS INTEGRADOS - SMD.Library Path|TableNameOnly=CIRCUITOS INTEGRADOS - SMD|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=CIRCUITOS INTEGRADOS - SMD.Description|TableNameOnly=CIRCUITOS INTEGRADOS - SMD|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=CIRCUITOS INTEGRADOS - SMD.Library Ref|TableNameOnly=CIRCUITOS INTEGRADOS - SMD|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=CIRCUITOS INTEGRADOS - SMD.Footprint Path|TableNameOnly=CIRCUITOS INTEGRADOS - SMD|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=CIRCUITOS INTEGRADOS - SMD.Footprint Ref|TableNameOnly=CIRCUITOS INTEGRADOS - SMD|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=COLVEN.Part Number|TableNameOnly=COLVEN|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=COLVEN.Library Path|TableNameOnly=COLVEN|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=COLVEN.Description|TableNameOnly=COLVEN|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=COLVEN.Library Ref|TableNameOnly=COLVEN|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=COLVEN.Footprint Path|TableNameOnly=COLVEN|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=COLVEN.Footprint Ref|TableNameOnly=COLVEN|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=CONECTORES Y BORNERAS.Part Number|TableNameOnly=CONECTORES Y BORNERAS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=CONECTORES Y BORNERAS.Library Path|TableNameOnly=CONECTORES Y BORNERAS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=CONECTORES Y BORNERAS.Description|TableNameOnly=CONECTORES Y BORNERAS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=CONECTORES Y BORNERAS.Library Ref|TableNameOnly=CONECTORES Y BORNERAS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=CONECTORES Y BORNERAS.Footprint Path|TableNameOnly=CONECTORES Y BORNERAS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=CONECTORES Y BORNERAS.Footprint Ref|TableNameOnly=CONECTORES Y BORNERAS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=CRISTALES Y OSCILADORES.Part Number|TableNameOnly=CRISTALES Y OSCILADORES|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=CRISTALES Y OSCILADORES.Library Path|TableNameOnly=CRISTALES Y OSCILADORES|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=CRISTALES Y OSCILADORES.Description|TableNameOnly=CRISTALES Y OSCILADORES|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=CRISTALES Y OSCILADORES.Library Ref|TableNameOnly=CRISTALES Y OSCILADORES|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=CRISTALES Y OSCILADORES.Footprint Path|TableNameOnly=CRISTALES Y OSCILADORES|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=CRISTALES Y OSCILADORES.Footprint Ref|TableNameOnly=CRISTALES Y OSCILADORES|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=DAUGHTERS.Part Number|TableNameOnly=DAUGHTERS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=DAUGHTERS.Library Path|TableNameOnly=DAUGHTERS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=DAUGHTERS.Description|TableNameOnly=DAUGHTERS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=DAUGHTERS.Library Ref|TableNameOnly=DAUGHTERS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=DAUGHTERS.Footprint Path|TableNameOnly=DAUGHTERS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=DAUGHTERS.Footprint Ref|TableNameOnly=DAUGHTERS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=DIODOS - SMD.Part Number|TableNameOnly=DIODOS - SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=DIODOS - SMD.Library Path|TableNameOnly=DIODOS - SMD|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=DIODOS - SMD.Description|TableNameOnly=DIODOS - SMD|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=DIODOS - SMD.Library Ref|TableNameOnly=DIODOS - SMD|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=DIODOS - SMD.Footprint Path|TableNameOnly=DIODOS - SMD|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=DIODOS - SMD.Footprint Ref|TableNameOnly=DIODOS - SMD|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=DIODOS - TH.Part Number|TableNameOnly=DIODOS - TH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=DIODOS - TH.Library Path|TableNameOnly=DIODOS - TH|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=DIODOS - TH.Description|TableNameOnly=DIODOS - TH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=DIODOS - TH.Library Ref|TableNameOnly=DIODOS - TH|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=DIODOS - TH.Footprint Path|TableNameOnly=DIODOS - TH|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=DIODOS - TH.Footprint Ref|TableNameOnly=DIODOS - TH|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=INDUCTORES.Part Number|TableNameOnly=INDUCTORES|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=INDUCTORES.Library Path|TableNameOnly=INDUCTORES|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=INDUCTORES.Description|TableNameOnly=INDUCTORES|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=INDUCTORES.Library Ref|TableNameOnly=INDUCTORES|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=INDUCTORES.Footprint Path|TableNameOnly=INDUCTORES|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=INDUCTORES.Footprint Ref|TableNameOnly=INDUCTORES|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=MISCELANEOS.Part Number|TableNameOnly=MISCELANEOS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=MISCELANEOS.Library Path|TableNameOnly=MISCELANEOS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=MISCELANEOS.Description|TableNameOnly=MISCELANEOS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=MISCELANEOS.Library Ref|TableNameOnly=MISCELANEOS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=MISCELANEOS.Footprint Path|TableNameOnly=MISCELANEOS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=MISCELANEOS.Footprint Ref|TableNameOnly=MISCELANEOS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=PROTECCIONES.Part Number|TableNameOnly=PROTECCIONES|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=PROTECCIONES.Library Path|TableNameOnly=PROTECCIONES|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=PROTECCIONES.Description|TableNameOnly=PROTECCIONES|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=PROTECCIONES.Library Ref|TableNameOnly=PROTECCIONES|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=PROTECCIONES.Footprint Path|TableNameOnly=PROTECCIONES|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=PROTECCIONES.Footprint Ref|TableNameOnly=PROTECCIONES|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=RELES.Part Number|TableNameOnly=RELES|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=RELES.Library Path|TableNameOnly=RELES|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=RELES.Description|TableNameOnly=RELES|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=RELES.Library Ref|TableNameOnly=RELES|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=RELES.Footprint Path|TableNameOnly=RELES|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=RELES.Footprint Ref|TableNameOnly=RELES|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=RESISTORES - SMD.Part Number|TableNameOnly=RESISTORES - SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=RESISTORES - SMD.Library Path|TableNameOnly=RESISTORES - SMD|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=RESISTORES - SMD.Description|TableNameOnly=RESISTORES - SMD|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=RESISTORES - SMD.Library Ref|TableNameOnly=RESISTORES - SMD|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=RESISTORES - SMD.Footprint Path|TableNameOnly=RESISTORES - SMD|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=RESISTORES - SMD.Footprint Ref|TableNameOnly=RESISTORES - SMD|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=RESISTORES - TH.Part Number|TableNameOnly=RESISTORES - TH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=RESISTORES - TH.Library Path|TableNameOnly=RESISTORES - TH|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=RESISTORES - TH.Description|TableNameOnly=RESISTORES - TH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=RESISTORES - TH.Library Ref|TableNameOnly=RESISTORES - TH|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=RESISTORES - TH.Footprint Path|TableNameOnly=RESISTORES - TH|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=RESISTORES - TH.Footprint Ref|TableNameOnly=RESISTORES - TH|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=TRANSISTORES Y FETS.Part Number|TableNameOnly=TRANSISTORES Y FETS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=TRANSISTORES Y FETS.Library Path|TableNameOnly=TRANSISTORES Y FETS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=TRANSISTORES Y FETS.Description|TableNameOnly=TRANSISTORES Y FETS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=TRANSISTORES Y FETS.Library Ref|TableNameOnly=TRANSISTORES Y FETS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=TRANSISTORES Y FETS.Footprint Path|TableNameOnly=TRANSISTORES Y FETS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=TRANSISTORES Y FETS.Footprint Ref|TableNameOnly=TRANSISTORES Y FETS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

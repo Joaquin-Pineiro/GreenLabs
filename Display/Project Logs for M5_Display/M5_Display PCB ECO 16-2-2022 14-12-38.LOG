@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TXD485_EXT Pin=J17-1
+Removed Pin From Net: NetName=TXD_EXT Pin=J19-1
+Added Pin To Net: NetName=TXD_EXT Pin=J17-1
+Added Pin To Net: NetName=TXD485_EXT Pin=J19-1

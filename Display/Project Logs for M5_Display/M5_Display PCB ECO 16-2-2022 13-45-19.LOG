@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CANH Pin=J22-1
+Removed Member From Class: ClassName=U_M5_Display_COMM Member=J22
+Removed Member From Class: ClassName=U_M5_Display_GPIO Member=J28
+Added Pin To Net: NetName=CANH Pin=J28-1
+Added Pin To Net: NetName=NetJ22_1 Pin=J22-1
+Added Pin To Net: NetName=NetJ22_1 Pin=R9-1
+Added Pin To Net: NetName=NetJ22_1 Pin=R11-2
+Added Net: Name=NetJ22_1
+Added Member To Class: ClassName=U_M5_Display_MCU Member=Component C22 12pF
+Added Member To Class: ClassName=U_M5_Display_GPIO Member=Component J22 PIN CABLE
+Added Member To Class: ClassName=U_M5_Display_COMM Member=Component J28 PIN CABLE
